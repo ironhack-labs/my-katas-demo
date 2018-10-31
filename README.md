@@ -8,7 +8,7 @@ If the students do katas on multiple websites, they could organize them into fol
 - The student should **reiterate** their first solution and **refactor** it to the better one (meaning the one that's more time efficient, that
 has cleaner code, that is possibly shorter).
 - The student should **create a folder on their GitHub** account and **save their solutions**. 
-- After submitting their own solution on the let's say Codewars, they should check other best-ranked solutions and try to understand why other solutions are better ranked. The student **should save both solutions** and keep them in the record so the process of preparing for job interviews would be easier since all the code resources would be saved in one spot.
+- After submitting their own solution on the let's say CodeWars, they should check other best-ranked solutions and try to understand why other solutions are better ranked. The student **should save both solutions** and keep them in the record so the process of preparing for job interviews would be easier since all the code resources would be saved in one spot.
 
 ## Example:
 ```js
@@ -34,3 +34,5 @@ const array_diff = (a, b) => {
     return a.filter(elem => !b.includes(elem));
 };
 ```
+
+You got this :heart:
